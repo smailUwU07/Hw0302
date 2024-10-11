@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_minus" type="id" />
+    <item name="btn_next" type="id" />
+    <item name="bnt_plus" type="id" />
+    <item name="tv_num" type="id" />
+    <item name="tv_num_second" type="id" />
+    <item name="btn_onTouch" type="id" />
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tv_num_second"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/_0"
+        android:textSize="60sp" />
+
+    <Button
+        android:id="@+id/btn_onTouch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="160dp"
+        android:layout_marginBottom="200dp"
+        android:background="@drawable/bg_bnt"
+        android:hint="@string/_1"
+        android:textColorHint="@color/white"
+        android:textSize="30sp"
+        android:padding="20dp"
+        />
+
+</FrameLayout>
